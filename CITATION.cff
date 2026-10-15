@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these datasets, papers or scripts in your work, please cite them as below."
+title: "Empirical Distribution of Player Expectations, Variance, and Dealer Outlaw Distributions Across 100 Million Simulated Hands"
+authors:
+  - name: "BlackjackMath Research"
+    affiliation: "Applied Probability Institute"
+    website: "https://blackjackmath.org"
+date-released: 2026-09-22
+url: "https://blackjackmath.org/en/research/blackjack-100m-simulation-study/"
+repository-code: "https://github.com/blackjackmath-research/research-papers"
+keywords:
+  - "blackjack"
+  - "house edge"
+  - "monte carlo simulation"
+  - "basic strategy"
+  - "open science"
+license: CC-BY-4.0
